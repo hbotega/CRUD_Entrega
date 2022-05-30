@@ -1,0 +1,10 @@
+INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Teresa de Braganza', 12345678900, 15000.00, TIMESTAMP WITH TIME ZONE '1920-07-13T20:50:07.12345Z', 2);
+;INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Felipe Habsburgo', 98745632199, 18000.00, TIMESTAMP WITH TIME ZONE '1920-12-23T20:50:07.12345Z', 6);
+;INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Maria Joaquina', 23256894722, 1000.00, TIMESTAMP WITH TIME ZONE '1962-11-03T20:50:07.12345Z', 6);
+;INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Pedro Silca', 29586894722, 12000.00, TIMESTAMP WITH TIME ZONE '1978-09-23T20:50:07.12345Z', 1);
+;INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Catarina Romanov', 13356894722, 15000.00, TIMESTAMP WITH TIME ZONE '1933-10-13T20:50:07.12345Z', 1);
+;INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Napoleão Bonaparte', 23278864722, 6000.00, TIMESTAMP WITH TIME ZONE '1922-06-03T20:50:07.12345Z', 0);
+;INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Bartolomeu Dias', 12398894722, 4670.00, TIMESTAMP WITH TIME ZONE '1982-01-10T20:50:07.12345Z', 0);
+;INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Henrique Tudor', 25856821552, 5000.00, TIMESTAMP WITH TIME ZONE '1974-02-03T20:50:07.12345Z', 2);
+;INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Catarina de Aragão', 45981134675, 1876.00, TIMESTAMP WITH TIME ZONE '1994-04-07T20:50:07.12345Z', 1);
+;INSERT INTO tb_client (name, cpf, income, birth_date, children) VALUES ('Isabel de Castela', 87456212237, 10000.00, TIMESTAMP WITH TIME ZONE '1951-11-30T20:50:07.12345Z', 4);
